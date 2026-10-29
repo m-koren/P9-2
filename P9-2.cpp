@@ -2,7 +2,7 @@
 //File: P9-2.cpp
 //Date: 10/28/2026
 //Description: Program to count total amount of words using function prototypes
-
+//Completed
 
 #include <iostream>
 #include <string>
